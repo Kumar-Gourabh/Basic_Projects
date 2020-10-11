@@ -7,3 +7,4 @@ Those who are new like me --> Click on the "main" drop-down and you'll find the 
 * Mushroom
 * Salary
 * Big Data Mart Sales Problem
+* Covid 19
